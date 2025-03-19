@@ -33,6 +33,7 @@ A meme that captures how I currently feel about my university studies is ![https
 An existing meme online that contains both an image and text which I found is [https://www.engagebay.com/blog/wp-content/uploads/2022/10/inspirationmeme5.png]
 **inspo_meme** is saved and with the _.png_ format.
 ![inspo_meme](https://github.com/user-attachments/assets/52d70056-4dad-4d90-b1c6-e60a350c974e)
+
 We could analyze the meme design in many way.
 1. The meme type is a photo.
 2. Text located on the bottom of the meme.
